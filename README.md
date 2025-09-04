@@ -60,11 +60,11 @@ I love building things for the web and also with programming.
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## ✍️ Latest Blog Posts
+<!--## ✍️ Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 
-- [How I Built My Portfolio with Next.js](https://yourblog.com/post-1)
+<!-- [How I Built My Portfolio with Next.js](https://yourblog.com/post-1) -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
