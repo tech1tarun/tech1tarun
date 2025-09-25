@@ -26,6 +26,8 @@ I love building things for the web and also with programming.
 
 ⚡ **Fun fact:**<br>I love creating Web content and learning new Technology.
 
+  <img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="right" width="300" />
+
 ---
 
 ## 🤝 Connect with Me
@@ -36,8 +38,6 @@ I love building things for the web and also with programming.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCGlsrSZJtNNTrffglfCvBnkNprvsTgGCDxkHsqfJPsHZhZxMLrfLPJFMMJddvmvVwJRxq)
 
 ---
-
-  <img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="right" width="300" />
 
 ## 🛠️ Tech Stack
 
