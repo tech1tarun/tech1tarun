@@ -28,7 +28,7 @@ I love building things for the web and also with programming.
 
   <img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="center" width="300" />
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">L
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ---
 
