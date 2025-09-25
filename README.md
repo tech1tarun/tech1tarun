@@ -1,3 +1,10 @@
+ <p align="center">
+      <img
+        src="https://capsule-render.vercel.app/api?type=waving&color=63C8FF&height=120&section=header&text=Tarun%20Kumar%20Singh&fontSize=40&fontColor=000000&animation=none&fontAlignY=35"
+        alt="Header"
+      />
+    </p>
+
 # 👋 Hello, I'm Tarun!
 
 **A passionate Full Stack Developer from India**  
@@ -29,6 +36,8 @@ I love building things for the web and also with programming.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCGlsrSZJtNNTrffglfCvBnkNprvsTgGCDxkHsqfJPsHZhZxMLrfLPJFMMJddvmvVwJRxq)
 
 ---
+
+  <img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="right" width="300" />
 
 ## 🛠️ Tech Stack
 
