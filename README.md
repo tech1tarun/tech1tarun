@@ -37,7 +37,7 @@ I love building things for the web and also with programming.
 
 ---
 
-  <img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="right" width="300" />
+  <img src="https://in.pinterest.com/pin/449304500341361999/" align="right" width="300" />
 
 ## 🛠️ Tech Stack
 
