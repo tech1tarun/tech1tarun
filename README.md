@@ -26,7 +26,7 @@ I love building things for the web and also with programming.
 
 ⚡ **Fun fact:**<br>I love creating Web content and learning new Technology.
 
-  <img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="right" width="300" />
+  <img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="center" width="300" />
 
 ---
 
