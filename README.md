@@ -37,10 +37,7 @@ I love building things for the web and also with programming.
 
 ---
 
-<img src="https://i.pinimg.com/736x/b1/33/4f/b1334f43d458b7a3794cd239928370c7.jpg" 
-     align="right" 
-     width="300" 
-     style="margin-top:5px; border-radius:15px;" />
+  <img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="right" width="300" />
 
 ## 🛠️ Tech Stack
 
@@ -80,5 +77,7 @@ I love building things for the web and also with programming.
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ⭐️ _From [Tarun](https://github.com/YourGitHubUsername)_
