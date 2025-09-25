@@ -83,5 +83,5 @@ I love building things for the web and also with programming.
 ⭐️ _From [Tarun](https://github.com/YourGitHubUsername)_
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=63C8FF&height=120&section=footer&text=Thank%20YoufontSize=32&fontColor=000000&animation=fadeIn&fontAlignY=80" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=63C8FF&height=120&section=footer&text=Thank%20You&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=80" alt="Header" />
 </p>
