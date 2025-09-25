@@ -37,7 +37,10 @@ I love building things for the web and also with programming.
 
 ---
 
-  <img src="https://i.pinimg.com/736x/b1/33/4f/b1334f43d458b7a3794cd239928370c7.jpg" align="right" width="300" />
+<img src="https://i.pinimg.com/736x/b1/33/4f/b1334f43d458b7a3794cd239928370c7.jpg" 
+     align="right" 
+     width="300" 
+     style="margin-top:5px; border-radius:15px;" />
 
 ## 🛠️ Tech Stack
 
