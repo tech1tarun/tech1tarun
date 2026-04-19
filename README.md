@@ -1,41 +1,57 @@
- <p align="center">
-      <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=63C8FF&height=120&section=header&text=Tarun%20Kumar%20Singh&fontSize=40&fontColor=000000&animation=none&fontAlignY=35"
-        alt="Header"
-      />
-    </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tarun%20Kumar%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" />
+</p>
 
-# 👋 Hello, I'm Tarun!
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=63C8FF&center=true&vCenter=true&random=false&width=600&lines=Hey+There!+%F0%9F%91%8B+I'm+Tarun;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%E2%9A%A1;Always+Learning+New+Tech+%F0%9F%8C%B1;Let's+Build+Something+Awesome!+%F0%9F%94%A5" alt="Typing SVG" />
+  </a>
+</p>
 
-**A passionate Full Stack Developer from India**  
-I love building things for the web and also with programming.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=63C8FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Followers&style=for-the-badge&color=63C8FF&labelColor=000" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-brightgreen?style=for-the-badge&color=63C8FF&labelColor=000" />
+</p>
 
 ---
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
 
-🔭 **I’m currently working on:**<br>Full Stack based project.
+## 👨‍💻 About Me
 
-🌱 **I’m currently learning:**<br>Python and Data Structure and Algorithm with Java.
+🔭 &nbsp;**Currently working on:** Full Stack based project
 
-👯 **I’m looking to collaborate on:**<br>Innovative Fullstack projects.
+🌱 &nbsp;**Currently learning:** Python & DSA with Java
 
-💬 **Ask me about:**<br>JavaScript, React, Express.js, Node.js or other MERN Stack Technology.
+👯 &nbsp;**Looking to collaborate on:** Innovative Fullstack projects
 
-📫 **How to reach me:**<br>Email, Linkedin, Instagram, Twitter
+💬 &nbsp;**Ask me about:** JavaScript, React, Express.js, Node.js or other MERN Stack Technology
 
-⚡ **Fun fact:**<br>I love creating Web content and learning new Technology.
+📫 &nbsp;**Reach me on:** Email, LinkedIn, Instagram, Twitter
 
-<img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="center" width="300" />
+⚡ &nbsp;**Fun fact:** I love creating Web content and learning new Technology
+
+<br clear="right"/>
 
 ---
 
 ## 🤝 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_itzz_tarun?t=-QDTSY3xI2vCmtiJOQ9gEQ&s=08)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_itzz_tarun?utm_source=qr&igsh=anJnN2Q5N3F1aGcw)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kumar-singh-775454234/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCGlsrSZJtNNTrffglfCvBnkNprvsTgGCDxkHsqfJPsHZhZxMLrfLPJFMMJddvmvVwJRxq)
+<p align="center">
+  <a href="https://x.com/_itzz_tarun?t=-QDTSY3xI2vCmtiJOQ9gEQ&s=08" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/_itzz_tarun?utm_source=qr&igsh=anJnN2Q5N3F1aGcw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/tarun-kumar-singh-775454234/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCGlsrSZJtNNTrffglfCvBnkNprvsTgGCDxkHsqfJPsHZhZxMLrfLPJFMMJddvmvVwJRxq" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
@@ -43,47 +59,79 @@ I love building things for the web and also with programming.
 
 ### 📋 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,c,java,flutter,dart&theme=dark&perline=8" />
+</p>
 
 ### 🚀 Frameworks & Libraries
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,express,bootstrap&theme=dark&perline=6" />
+</p>
 
 ### 🗄️ Databases & Cloud
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=4" />
+</p>
 
 ### 🔧 Tools & Platforms
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!--## ✍️ Latest Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- [How I Built My Portfolio with Next.js](https://yourblog.com/post-1) -->
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git&theme=dark&perline=6" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />
+</p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-⭐️ _From [Tarun](https://github.com/YourGitHubUsername)_
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=63C8FF&height=120&section=footer&text=Thank%20You&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=80" alt="Header" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63C8FF&icon_color=63C8FF&text_color=ffffff&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&background=0D1117&stroke=63C8FF&ring=63C8FF&fire=FF6B6B&currStreakLabel=63C8FF" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63C8FF&text_color=ffffff" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&bg_color=0D1117&color=63C8FF&line=63C8FF&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" />
+</p>
+
+<p align="center">
+  ⭐️ <i>From <a href="https://github.com/YourGitHubUsername">Tarun</a> with ❤️</i>
 </p>
