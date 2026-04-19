@@ -109,9 +109,8 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&bg_color=0D1117&color=63C8FF&line=63C8FF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tech1tarun&bg_color=0D1117&color=63C8FF&line=63C8FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
