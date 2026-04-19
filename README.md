@@ -88,12 +88,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63C8FF&icon_color=63C8FF&text_color=ffffff&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true&background=0D1117&stroke=63C8FF&ring=63C8FF&fire=FF6B6B&currStreakLabel=63C8FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tech1tarun&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tech1tarun&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=63C8FF&text_color=ffffff" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech1tarun&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
