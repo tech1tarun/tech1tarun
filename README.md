@@ -116,12 +116,6 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
@@ -132,5 +126,5 @@
 </p>
 
 <p align="center">
-  ⭐️ <i>From <a href="https://github.com/YourGitHubUsername">Tarun</a> with ❤️</i>
+  ⭐️ <i>From <a href="https://github.com/tech1tarun">Tarun</a> with ❤️</i>
 </p>
