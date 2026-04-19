@@ -128,3 +128,7 @@
 <p align="center">
   ⭐️ <i>From <a href="https://github.com/tech1tarun">Tarun</a> with ❤️</i>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tech1tarun/tech1tarun/output/github-contribution-grid-snake-dark.svg" />
+</p>
